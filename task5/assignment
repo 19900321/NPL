@@ -1,0 +1,19 @@
+Assignment
+• 1. Summarize the reasons of overfitting and underfitting. Put them in github repository.
+
+Overfitting occurs when a statistical model or machine learning algorithm captures the noise of the data.
+overfitting occurs when the model or the algorithm fits the data too well.  
+overfitting occurs if the model or algorithm shows low bias but high variance.
+Underfitting occurs when a statistical model or machine learning algorithm cannot capture the underlying trend of the data. 
+underfitting occurs when the model or the algorithm does not fit the data well enough. 
+underfitting occurs if the model or algorithm shows low variance but high bias. 
+Underfitting is often a result of an excessively simple model.
+
+• 2. install the numpy, scikit-learning, keras, tensorflow
+done
+
+• 3. Writing down three sceneries that machine learning has been used now.
+A: for cancer type classification, predict the probality of whether, news type classificatio
+
+• 4. Come out with three new sceneries with which machine learning may be applied.
+future stock curve, future house price, the loader payment ability 
